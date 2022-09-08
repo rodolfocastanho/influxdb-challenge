@@ -1,3 +1,0 @@
-*.python linguist-detectable=false
-*.influxdb linguist-detectable=false
-*.kaggle linguist-detectable=false
