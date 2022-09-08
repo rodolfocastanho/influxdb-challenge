@@ -19,7 +19,7 @@ Dataset ([Climate Weather Surface of Brazil - Hourly | Kaggle](https://www.kaggl
 - [x] Create a task in the platform (print_task.png)
 - [x] Create a dashboard to visualize the data (print_dashboard.png)
 - [x] Transform your data for extra credit (print_transform.png)
-- [ ] Submit your challenge
+- [x] Submit your challenge
 - [ ] Receive Gifts
 
 ### Additional Informations
