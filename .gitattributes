@@ -1,0 +1,3 @@
+*.ASM linguist-language=Python
+*.ASM linguist-language=InfluxDB
+*.ASM linguist-language=Kaggle
